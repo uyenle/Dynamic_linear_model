@@ -1,5 +1,4 @@
-# Master Thesis: MACROECONOMIC FORECAST USING GOOGLE SEARCH DATA
-FOR VIETNAM BY DYNAMIC LINEAR MODELS
+# Master Thesis: MACROECONOMIC FORECAST USING GOOGLE SEARCH DATA FOR VIETNAM BY DYNAMIC LINEAR MODELS
 
 This thesis aims to investigate the nowcasting gains obtained from the real-time Google Search data comparing to the models implemented only the conventional macroeconomic indicators. At the same time, the empirical result in this thesis support the benefits of DMA and DMS in nowcasting improvement for an emerging economy like Vietnam.
 
